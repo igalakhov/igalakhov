@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center">
+<small>View Counter:</small><br>
+<img src="https://profile-counter.glitch.me/tche/count.svg" /> 
+</p>
+
 <!--
 **igalakhov/igalakhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
